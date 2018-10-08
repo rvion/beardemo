@@ -29,7 +29,7 @@ docker run -e APP_NAME=strapi-app \
 
 ```sh
 #1. creer un environnement d'exection appele beardemo
-docker build -t beardemo .
+docker build -t beardemo docker
 
 #2. alias pour facilement lancer un shell au sein d'un container instanci'e
 #   d'apres mon environnement beardemo ayant acces aux dossiers avec le code
