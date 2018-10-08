@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "demo web application for beardeese group.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "rvion",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
+}
